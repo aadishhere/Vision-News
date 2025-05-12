@@ -1,9 +1,8 @@
 # Vision News
 
-![Welcome Screen Screenshot](https://github.com/user-attachments/assets/242da3f2-e29f-4c9e-9ee1-3b86ece2b03e)</br>
-![Image Scanning Screenshot](https://github.com/user-attachments/assets/ddb36292-0f35-49d7-8ce2-9f5e761ba679)</br>
-![Video Playback Screenshot](https://github.com/user-attachments/assets/a10a7842-d09a-48ae-b85b-f3894b911001)</br>
-*(Include other relevant screenshots here)*
+![Welcome Screen Screenshot](https://github.com/user-attachments/assets/242da3f2-e29f-4c9e-9ee1-3b86ece2b03e)
+![Image Scanning Screenshot](https://github.com/user-attachments/assets/ddb36292-0f35-49d7-8ce2-9f5e761ba679)
+![Video Playback Screenshot](https://github.com/user-attachments/assets/a10a7842-d09a-48ae-b85b-f3894b911001)
 
 An experimental iOS Augmented Reality application using ARKit to bring static news images to life by overlaying related video content. Developed as a personal project to explore and understand the capabilities of image tracking and video integration within AR experiences.
 
